@@ -5,7 +5,7 @@ function sum_pairs( array, solution) {
     let indexSum = array.length;
   for(let i = 0; i < array.length; i++) {
 
-    for (let j = i+1; j < array.length; j++){
+    for (let j = 0; j < array.length; j++){
       // console.log('number 1 : '  + array[i] + ' index '  + i);
       //       console.log('number 2 : '  + array[j] + ' index '  + j);
       //       console.log(array[i] + array[j]);

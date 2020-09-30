@@ -1,5 +1,7 @@
 # Sum of Pairs
 
+## Code Kata exercise with my Adalab mentees
+
 Given a list of integers and a single sum value, return the first two values (parse from the left please) in order of appearance that add up to form the sum.
 
 ```
